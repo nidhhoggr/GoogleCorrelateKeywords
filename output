@@ -1,0 +1,1112 @@
+college >> michigan university
+	michigan university >> state university
+		state university >> michigan university
+		state university >> colorado state university
+		state university >> humanities
+		state university >> western michigan university
+		state university >> college
+		state university >> florida state university
+		state university >> university of arizona
+		state university >> iowa state university
+		state university >> northeastern
+		state university >> the university
+	michigan university >> university of michigan
+		university of michigan >> michigan university
+		university of michigan >> ohio state university
+		university of michigan >> university of georgia
+		university of michigan >> university of wisconsin madison
+		university of michigan >> wisconsin madison
+		university of michigan >> the ohio state university
+		university of michigan >> university
+		university of michigan >> university of wisconsin
+		university of michigan >> washington state university
+		university of michigan >> university of tennessee
+	michigan university >> university
+		university >> colleges
+		university >> university of minnesota
+		university >> state university
+		university >> university of maryland
+		university >> university of arizona
+		university >> university of wisconsin
+		university >> washington university
+		university >> school psychology
+		university >> marymount
+		university >> wisconsin madison
+	michigan university >> eastern michigan
+		eastern michigan >> michigan university
+		eastern michigan >> western michigan university
+		eastern michigan >> state university
+		eastern michigan >> university
+		eastern michigan >> university of michigan
+		eastern michigan >> florida state university
+		eastern michigan >> western michigan
+		eastern michigan >> university of south
+		eastern michigan >> michigan state university
+		eastern michigan >> university of rochester
+	michigan university >> eastern michigan university
+		eastern michigan university >> michigan university
+		eastern michigan university >> state university
+		eastern michigan university >> university
+		eastern michigan university >> western michigan university
+		eastern michigan university >> florida state university
+		eastern michigan university >> university of arizona
+		eastern michigan university >> university of wisconsin madison
+		eastern michigan university >> biochemistry
+		eastern michigan university >> colorado state university
+		eastern michigan university >> wisconsin madison
+	michigan university >> western michigan
+		western michigan >> michigan university
+		western michigan >> university of michigan
+		western michigan >> state university
+		western michigan >> university of iowa
+		western michigan >> university of tennessee
+		western michigan >> university of south
+		western michigan >> michigan state university
+		western michigan >> university
+		western michigan >> florida state university
+		western michigan >> carolina university
+	michigan university >> florida state university
+		florida state university >> university
+		florida state university >> michigan university
+		florida state university >> washington state university
+		florida state university >> university of wisconsin madison
+		florida state university >> colorado state university
+		florida state university >> wisconsin madison
+		florida state university >> university of georgia
+		florida state university >> university of michigan
+		florida state university >> western michigan university
+		florida state university >> florida state
+	michigan university >> michigan state university
+		michigan state university >> state university
+		michigan state university >> university
+		michigan state university >> university of michigan
+		michigan state university >> western michigan university
+		michigan state university >> purdue university
+		michigan state university >> university of pittsburgh
+		michigan state university >> university of rochester
+		michigan state university >> university of tennessee
+		michigan state university >> university of illinois
+		michigan state university >> university of south
+	michigan university >> university of south
+		university of south >> university
+		university of south >> university of iowa
+		university of south >> university of georgia
+		university of south >> university south carolina
+		university of south >> university of michigan
+		university of south >> michigan university
+		university of south >> state university
+		university of south >> university of south florida
+		university of south >> university of arizona
+		university of south >> university of oklahoma
+	michigan university >> university of iowa
+		university of iowa >> university of georgia
+		university of iowa >> university
+		university of iowa >> university of south
+		university of iowa >> university of michigan
+		university of iowa >> michigan university
+		university of iowa >> warm-ups
+		university of iowa >> university of oklahoma
+		university of iowa >> university of minnesota
+		university of iowa >> university of illinois
+		university of iowa >> university of indiana
+college >> university
+	university >> colleges
+		colleges >> state colleges
+		colleges >> university
+		colleges >> art schools
+		colleges >> washington university
+		colleges >> design schools
+		colleges >> texas colleges
+		colleges >> art colleges
+		colleges >> college of art
+		colleges >> university of north
+		colleges >> university school
+	university >> university of minnesota
+		university of minnesota >> university of wisconsin
+		university of minnesota >> washington university
+		university of minnesota >> wisconsin madison
+		university of minnesota >> university of maryland
+		university of minnesota >> university
+		university of minnesota >> university of pennsylvania
+		university of minnesota >> university of chicago
+		university of minnesota >> university of washington
+		university of minnesota >> university of north
+		university of minnesota >> university of wisconsin madison
+	university >> state university
+		state university >> michigan university
+		state university >> colorado state university
+		state university >> humanities
+		state university >> western michigan university
+		state university >> college
+		state university >> florida state university
+		state university >> university of arizona
+		state university >> iowa state university
+		state university >> northeastern
+		state university >> the university
+	university >> university of maryland
+		university of maryland >> university of minnesota
+		university of maryland >> university of wisconsin
+		university of maryland >> washington university
+		university of maryland >> university of north
+		university of maryland >> colleges
+		university of maryland >> university
+		university of maryland >> university of chicago
+		university of maryland >> university of washington
+		university of maryland >> university of pennsylvania
+		university of maryland >> chronicle of higher
+	university >> university of arizona
+		university of arizona >> arizona university
+		university of arizona >> university of minnesota
+		university of arizona >> state university
+		university of arizona >> university of illinois
+		university of arizona >> arizona state university
+		university of arizona >> colleges
+		university of arizona >> washington state university
+		university of arizona >> university of wisconsin
+		university of arizona >> washington university
+		university of arizona >> university of maryland
+	university >> university of wisconsin
+		university of wisconsin >> university of minnesota
+		university of wisconsin >> university of wisconsin madison
+		university of wisconsin >> university of chicago
+		university of wisconsin >> washington university
+		university of wisconsin >> university of pennsylvania
+		university of wisconsin >> university michigan
+		university of wisconsin >> university of washington
+		university of wisconsin >> university wisconsin
+		university of wisconsin >> university minnesota
+		university of wisconsin >> university of southern
+	university >> washington university
+		washington university >> university of washington
+		washington university >> university of north
+		washington university >> university of pennsylvania
+		washington university >> fellowships
+		washington university >> york university
+		washington university >> university of san
+		washington university >> university of wisconsin
+		washington university >> new york university
+		washington university >> university of north carolina
+		washington university >> university of chicago
+	university >> school psychology
+		school psychology >> american studies
+		school psychology >> writing
+		school psychology >> word lists
+		school psychology >> university of minnesota
+		school psychology >> word dictionary
+		school psychology >> art colleges
+		school psychology >> reproducible
+		school psychology >> colleges
+		school psychology >> art education
+		school psychology >> marymount
+	university >> marymount
+		marymount >> marymount university
+		marymount >> visual arts
+		marymount >> university
+		marymount >> university of north
+		marymount >> university of maryland
+		marymount >> washington university
+		marymount >> school of music
+		marymount >> journalism
+		marymount >> colleges
+		marymount >> school psychology
+	university >> wisconsin madison
+		wisconsin madison >> university of wisconsin
+		wisconsin madison >> university of minnesota
+		wisconsin madison >> university wisconsin
+		wisconsin madison >> university of pennsylvania
+		wisconsin madison >> university michigan
+		wisconsin madison >> graduate program
+		wisconsin madison >> cell biology
+		wisconsin madison >> washington university
+		wisconsin madison >> university of chicago
+		wisconsin madison >> fellowships
+college >> western michigan university
+	western michigan university >> western michigan
+		western michigan >> michigan university
+		western michigan >> university of michigan
+		western michigan >> state university
+		western michigan >> university of iowa
+		western michigan >> university of tennessee
+		western michigan >> university of south
+		western michigan >> michigan state university
+		western michigan >> university
+		western michigan >> florida state university
+		western michigan >> carolina university
+	western michigan university >> state university
+		state university >> michigan university
+		state university >> colorado state university
+		state university >> humanities
+		state university >> western michigan university
+		state university >> college
+		state university >> florida state university
+		state university >> university of arizona
+		state university >> iowa state university
+		state university >> northeastern
+		state university >> the university
+	western michigan university >> university
+		university >> colleges
+		university >> university of minnesota
+		university >> state university
+		university >> university of maryland
+		university >> university of arizona
+		university >> university of wisconsin
+		university >> washington university
+		university >> school psychology
+		university >> marymount
+		university >> wisconsin madison
+	western michigan university >> florida state university
+		florida state university >> university
+		florida state university >> michigan university
+		florida state university >> washington state university
+		florida state university >> university of wisconsin madison
+		florida state university >> colorado state university
+		florida state university >> wisconsin madison
+		florida state university >> university of georgia
+		florida state university >> university of michigan
+		florida state university >> western michigan university
+		florida state university >> florida state
+	western michigan university >> university of michigan
+		university of michigan >> michigan university
+		university of michigan >> ohio state university
+		university of michigan >> university of georgia
+		university of michigan >> university of wisconsin madison
+		university of michigan >> wisconsin madison
+		university of michigan >> the ohio state university
+		university of michigan >> university
+		university of michigan >> university of wisconsin
+		university of michigan >> washington state university
+		university of michigan >> university of tennessee
+	western michigan university >> michigan state university
+		michigan state university >> state university
+		michigan state university >> university
+		michigan state university >> university of michigan
+		michigan state university >> western michigan university
+		michigan state university >> purdue university
+		michigan state university >> university of pittsburgh
+		michigan state university >> university of rochester
+		michigan state university >> university of tennessee
+		michigan state university >> university of illinois
+		michigan state university >> university of south
+	western michigan university >> eastern michigan
+		eastern michigan >> michigan university
+		eastern michigan >> western michigan university
+		eastern michigan >> state university
+		eastern michigan >> university
+		eastern michigan >> university of michigan
+		eastern michigan >> florida state university
+		eastern michigan >> western michigan
+		eastern michigan >> university of south
+		eastern michigan >> michigan state university
+		eastern michigan >> university of rochester
+	western michigan university >> university of pittsburgh
+		university of pittsburgh >> university of rochester
+		university of pittsburgh >> university of minnesota
+		university of pittsburgh >> state university
+		university of pittsburgh >> suny buffalo
+		university of pittsburgh >> colleges
+		university of pittsburgh >> washington state university
+		university of pittsburgh >> boston university
+		university of pittsburgh >> michigan university
+		university of pittsburgh >> university of oklahoma
+		university of pittsburgh >> university of illinois
+	western michigan university >> university of south
+		university of south >> university
+		university of south >> university of iowa
+		university of south >> university of georgia
+		university of south >> university south carolina
+		university of south >> university of michigan
+		university of south >> michigan university
+		university of south >> state university
+		university of south >> university of south florida
+		university of south >> university of arizona
+		university of south >> university of oklahoma
+	western michigan university >> eastern michigan university
+		eastern michigan university >> michigan university
+		eastern michigan university >> state university
+		eastern michigan university >> university
+		eastern michigan university >> western michigan university
+		eastern michigan university >> florida state university
+		eastern michigan university >> university of arizona
+		eastern michigan university >> university of wisconsin madison
+		eastern michigan university >> biochemistry
+		eastern michigan university >> colorado state university
+		eastern michigan university >> wisconsin madison
+college >> university of utah
+	university of utah >> michigan university
+		michigan university >> state university
+		michigan university >> university of michigan
+		michigan university >> university
+		michigan university >> eastern michigan
+		michigan university >> eastern michigan university
+		michigan university >> western michigan
+		michigan university >> florida state university
+		michigan university >> michigan state university
+		michigan university >> university of south
+		michigan university >> university of iowa
+	university of utah >> utah university
+		utah university >> southern utah university
+		utah university >> utah college
+		utah university >> university
+		utah university >> university of illinois
+		utah university >> university of pittsburgh
+		utah university >> arizona university
+		utah university >> washington state university
+		utah university >> western michigan university
+		utah university >> school of music
+		utah university >> university of minnesota
+	university of utah >> college
+		college >> michigan university
+		college >> university
+		college >> western michigan university
+		college >> university of utah
+		college >> columbia college
+		college >> carolina university
+		college >> idaho state university
+		college >> humanities
+		college >> the university
+		college >> university of arizona
+	university of utah >> western michigan university
+		western michigan university >> western michigan
+		western michigan university >> state university
+		western michigan university >> university
+		western michigan university >> florida state university
+		western michigan university >> university of michigan
+		western michigan university >> michigan state university
+		western michigan university >> eastern michigan
+		western michigan university >> university of pittsburgh
+		western michigan university >> university of south
+		western michigan university >> eastern michigan university
+	university of utah >> university
+		university >> colleges
+		university >> university of minnesota
+		university >> state university
+		university >> university of maryland
+		university >> university of arizona
+		university >> university of wisconsin
+		university >> washington university
+		university >> school psychology
+		university >> marymount
+		university >> wisconsin madison
+	university of utah >> iowa state university
+		iowa state university >> michigan university
+		iowa state university >> university
+		iowa state university >> colorado state university
+		iowa state university >> university of arizona
+		iowa state university >> university of iowa
+		iowa state university >> western michigan university
+		iowa state university >> biochemistry
+		iowa state university >> university of south
+		iowa state university >> florida state university
+		iowa state university >> university of michigan
+	university of utah >> university of arizona
+		university of arizona >> arizona university
+		university of arizona >> university of minnesota
+		university of arizona >> state university
+		university of arizona >> university of illinois
+		university of arizona >> arizona state university
+		university of arizona >> colleges
+		university of arizona >> washington state university
+		university of arizona >> university of wisconsin
+		university of arizona >> washington university
+		university of arizona >> university of maryland
+	university of utah >> university of south
+		university of south >> university
+		university of south >> university of iowa
+		university of south >> university of georgia
+		university of south >> university south carolina
+		university of south >> university of michigan
+		university of south >> michigan university
+		university of south >> state university
+		university of south >> university of south florida
+		university of south >> university of arizona
+		university of south >> university of oklahoma
+	university of utah >> university of iowa
+		university of iowa >> university of georgia
+		university of iowa >> university
+		university of iowa >> university of south
+		university of iowa >> university of michigan
+		university of iowa >> michigan university
+		university of iowa >> warm-ups
+		university of iowa >> university of oklahoma
+		university of iowa >> university of minnesota
+		university of iowa >> university of illinois
+		university of iowa >> university of indiana
+	university of utah >> florida state university
+		florida state university >> university
+		florida state university >> michigan university
+		florida state university >> washington state university
+		florida state university >> university of wisconsin madison
+		florida state university >> colorado state university
+		florida state university >> wisconsin madison
+		florida state university >> university of georgia
+		florida state university >> university of michigan
+		florida state university >> western michigan university
+		florida state university >> florida state
+college >> columbia college
+	columbia college >> college
+		college >> michigan university
+		college >> university
+		college >> western michigan university
+		college >> university of utah
+		college >> columbia college
+		college >> carolina university
+		college >> idaho state university
+		college >> humanities
+		college >> the university
+		college >> university of arizona
+	columbia college >> suny
+		suny >> suny albany
+		suny >> northeastern
+		suny >> university of hartford
+		suny >> suny binghamton
+		suny >> new england college
+		suny >> england college
+		suny >> writing lessons
+		suny >> truman state
+		suny >> western new england
+		suny >> english department
+	columbia college >> state university
+		state university >> michigan university
+		state university >> colorado state university
+		state university >> humanities
+		state university >> western michigan university
+		state university >> college
+		state university >> florida state university
+		state university >> university of arizona
+		state university >> iowa state university
+		state university >> northeastern
+		state university >> the university
+	columbia college >> the university
+		the university >> writing
+		the university >> political science
+		the university >> humanities
+		the university >> literature
+		the university >> faculty
+		the university >> social science
+		the university >> economics
+		the university >> lesson plans for
+		the university >> outlines
+		the university >> studies
+	columbia college >> college chicago
+		college chicago >> college
+		college chicago >> state university
+		college chicago >> columbia college chicago
+		college chicago >> montana state university
+		college chicago >> wayne state
+		college chicago >> hill college
+		college chicago >> illinois state university
+		college chicago >> central college
+		college chicago >> idaho state university
+		college chicago >> assignments
+	columbia college >> art department
+		art department >> the university
+		art department >> writing topics
+		art department >> fourth grade
+		art department >> history department
+		art department >> fifth grade
+		art department >> university music
+		art department >> suny
+		art department >> food science
+		art department >> writing lessons
+		art department >> math help
+	columbia college >> northeastern
+		northeastern >> state university
+		northeastern >> school psychology
+		northeastern >> university of rochester
+		northeastern >> washington and lee
+		northeastern >> political science
+		northeastern >> american studies
+		northeastern >> writing
+		northeastern >> michigan university
+		northeastern >> marymount
+		northeastern >> university of pittsburgh
+	columbia college >> mountain college
+		mountain college >> college of pharmacy
+		mountain college >> colorado mountain college
+		mountain college >> school of pharmacy
+		mountain college >> university of pittsburgh
+		mountain college >> univ
+		mountain college >> suny buffalo
+		mountain college >> university
+		mountain college >> mailbox magazine
+		mountain college >> university of central
+		mountain college >> college
+	columbia college >> harcourt
+		harcourt >> prentice
+		harcourt >> prentice hall
+		harcourt >> math books
+		harcourt >> foresman
+		harcourt >> proofreading
+		harcourt >> open court
+		harcourt >> accelerated reading
+		harcourt >> fundraisers
+		harcourt >> art lessons
+		harcourt >> school site
+	columbia college >> idaho state university
+		idaho state university >> michigan university
+		idaho state university >> college
+		idaho state university >> university of indianapolis
+		idaho state university >> western michigan university
+		idaho state university >> university
+		idaho state university >> university of iowa
+		idaho state university >> mountain college
+		idaho state university >> washington state university
+		idaho state university >> northeastern
+		idaho state university >> suny
+college >> carolina university
+	carolina university >> state university
+		state university >> michigan university
+		state university >> colorado state university
+		state university >> humanities
+		state university >> western michigan university
+		state university >> college
+		state university >> florida state university
+		state university >> university of arizona
+		state university >> iowa state university
+		state university >> northeastern
+		state university >> the university
+	carolina university >> michigan university
+		michigan university >> state university
+		michigan university >> university of michigan
+		michigan university >> university
+		michigan university >> eastern michigan
+		michigan university >> eastern michigan university
+		michigan university >> western michigan
+		michigan university >> florida state university
+		michigan university >> michigan state university
+		michigan university >> university of south
+		michigan university >> university of iowa
+	carolina university >> western michigan university
+		western michigan university >> western michigan
+		western michigan university >> state university
+		western michigan university >> university
+		western michigan university >> florida state university
+		western michigan university >> university of michigan
+		western michigan university >> michigan state university
+		western michigan university >> eastern michigan
+		western michigan university >> university of pittsburgh
+		western michigan university >> university of south
+		western michigan university >> eastern michigan university
+	carolina university >> university
+		university >> colleges
+		university >> university of minnesota
+		university >> state university
+		university >> university of maryland
+		university >> university of arizona
+		university >> university of wisconsin
+		university >> washington university
+		university >> school psychology
+		university >> marymount
+		university >> wisconsin madison
+	carolina university >> western michigan
+		western michigan >> michigan university
+		western michigan >> university of michigan
+		western michigan >> state university
+		western michigan >> university of iowa
+		western michigan >> university of tennessee
+		western michigan >> university of south
+		western michigan >> michigan state university
+		western michigan >> university
+		western michigan >> florida state university
+		western michigan >> carolina university
+	carolina university >> michigan state university
+		michigan state university >> state university
+		michigan state university >> university
+		michigan state university >> university of michigan
+		michigan state university >> western michigan university
+		michigan state university >> purdue university
+		michigan state university >> university of pittsburgh
+		michigan state university >> university of rochester
+		michigan state university >> university of tennessee
+		michigan state university >> university of illinois
+		michigan state university >> university of south
+	carolina university >> college
+		college >> michigan university
+		college >> university
+		college >> western michigan university
+		college >> university of utah
+		college >> columbia college
+		college >> carolina university
+		college >> idaho state university
+		college >> humanities
+		college >> the university
+		college >> university of arizona
+	carolina university >> university of south
+		university of south >> university
+		university of south >> university of iowa
+		university of south >> university of georgia
+		university of south >> university south carolina
+		university of south >> university of michigan
+		university of south >> michigan university
+		university of south >> state university
+		university of south >> university of south florida
+		university of south >> university of arizona
+		university of south >> university of oklahoma
+	carolina university >> suny
+		suny >> suny albany
+		suny >> northeastern
+		suny >> university of hartford
+		suny >> suny binghamton
+		suny >> new england college
+		suny >> england college
+		suny >> writing lessons
+		suny >> truman state
+		suny >> western new england
+		suny >> english department
+	carolina university >> truman state
+		truman state >> suny
+		truman state >> michigan university
+		truman state >> university of iowa
+		truman state >> purdue university
+		truman state >> state university
+		truman state >> word roots
+		truman state >> sports quotes
+		truman state >> staff paper
+		truman state >> art lessons
+		truman state >> sport quotes
+college >> idaho state university
+	idaho state university >> michigan university
+		michigan university >> state university
+		michigan university >> university of michigan
+		michigan university >> university
+		michigan university >> eastern michigan
+		michigan university >> eastern michigan university
+		michigan university >> western michigan
+		michigan university >> florida state university
+		michigan university >> michigan state university
+		michigan university >> university of south
+		michigan university >> university of iowa
+	idaho state university >> college
+		college >> michigan university
+		college >> university
+		college >> western michigan university
+		college >> university of utah
+		college >> columbia college
+		college >> carolina university
+		college >> idaho state university
+		college >> humanities
+		college >> the university
+		college >> university of arizona
+	idaho state university >> university of indianapolis
+		university of indianapolis >> university
+		university of indianapolis >> michigan university
+		university of indianapolis >> western michigan university
+		university of indianapolis >> university of iowa
+		university of indianapolis >> university of south
+		university of indianapolis >> indiana university
+		university of indianapolis >> purdue university
+		university of indianapolis >> university of pittsburgh
+		university of indianapolis >> idaho state university
+		university of indianapolis >> houghton mifflin
+	idaho state university >> western michigan university
+		western michigan university >> western michigan
+		western michigan university >> state university
+		western michigan university >> university
+		western michigan university >> florida state university
+		western michigan university >> university of michigan
+		western michigan university >> michigan state university
+		western michigan university >> eastern michigan
+		western michigan university >> university of pittsburgh
+		western michigan university >> university of south
+		western michigan university >> eastern michigan university
+	idaho state university >> university
+		university >> colleges
+		university >> university of minnesota
+		university >> state university
+		university >> university of maryland
+		university >> university of arizona
+		university >> university of wisconsin
+		university >> washington university
+		university >> school psychology
+		university >> marymount
+		university >> wisconsin madison
+	idaho state university >> university of iowa
+		university of iowa >> university of georgia
+		university of iowa >> university
+		university of iowa >> university of south
+		university of iowa >> university of michigan
+		university of iowa >> michigan university
+		university of iowa >> warm-ups
+		university of iowa >> university of oklahoma
+		university of iowa >> university of minnesota
+		university of iowa >> university of illinois
+		university of iowa >> university of indiana
+	idaho state university >> mountain college
+		mountain college >> college of pharmacy
+		mountain college >> colorado mountain college
+		mountain college >> school of pharmacy
+		mountain college >> university of pittsburgh
+		mountain college >> univ
+		mountain college >> suny buffalo
+		mountain college >> university
+		mountain college >> mailbox magazine
+		mountain college >> university of central
+		mountain college >> college
+	idaho state university >> washington state university
+		washington state university >> university
+		washington state university >> university of minnesota
+		washington state university >> university of wisconsin
+		washington state university >> wisconsin madison
+		washington state university >> university of georgia
+		washington state university >> university of wisconsin madison
+		washington state university >> university of indiana
+		washington state university >> university of colorado
+		washington state university >> university of washington
+		washington state university >> university of maryland
+	idaho state university >> northeastern
+		northeastern >> state university
+		northeastern >> school psychology
+		northeastern >> university of rochester
+		northeastern >> washington and lee
+		northeastern >> political science
+		northeastern >> american studies
+		northeastern >> writing
+		northeastern >> michigan university
+		northeastern >> marymount
+		northeastern >> university of pittsburgh
+	idaho state university >> suny
+		suny >> suny albany
+		suny >> northeastern
+		suny >> university of hartford
+		suny >> suny binghamton
+		suny >> new england college
+		suny >> england college
+		suny >> writing lessons
+		suny >> truman state
+		suny >> western new england
+		suny >> english department
+college >> humanities
+	humanities >> political science
+		political science >> american studies
+		political science >> writing
+		political science >> economics
+		political science >> studies
+		political science >> public policy
+		political science >> international relations
+		political science >> social science
+		political science >> lesson
+		political science >> the university
+		political science >> lesson plans
+	humanities >> faculty
+		faculty >> microbiology
+		faculty >> understanding
+		faculty >> writing
+		faculty >> humanities
+		faculty >> occupational
+		faculty >> mathematics
+		faculty >> engineering
+		faculty >> accounting
+		faculty >> studies
+		faculty >> psychologists
+	humanities >> social science
+		social science >> writing
+		social science >> understanding
+		social science >> studies
+		social science >> mathematical
+		social science >> science research
+		social science >> humanities
+		social science >> biological
+		social science >> microbiology
+		social science >> mathematics
+		social science >> literature
+	humanities >> writing
+		writing >> studies
+		writing >> learning
+		writing >> mathematics
+		writing >> literacy
+		writing >> measuring
+		writing >> understanding
+		writing >> communication
+		writing >> language
+		writing >> economics
+		writing >> grammar
+	humanities >> studies
+		studies >> language
+		studies >> writing
+		studies >> journalism
+		studies >> mathematics
+		studies >> forensic
+		studies >> geology
+		studies >> architecture
+		studies >> occupational
+		studies >> case studies
+		studies >> international business
+	humanities >> american studies
+		american studies >> writing
+		american studies >> political science
+		american studies >> school psychology
+		american studies >> university
+		american studies >> mathematics
+		american studies >> art education
+		american studies >> humanities
+		american studies >> cell biology
+		american studies >> international business
+		american studies >> journalism
+	humanities >> mathematics
+		mathematics >> forensic
+		mathematics >> studies
+		mathematics >> language
+		mathematics >> geology
+		mathematics >> mechanics
+		mathematics >> writing
+		mathematics >> biochemistry
+		mathematics >> microbiology
+		mathematics >> journalism
+		mathematics >> architecture
+	humanities >> state university
+		state university >> michigan university
+		state university >> colorado state university
+		state university >> humanities
+		state university >> western michigan university
+		state university >> college
+		state university >> florida state university
+		state university >> university of arizona
+		state university >> iowa state university
+		state university >> northeastern
+		state university >> the university
+	humanities >> university
+		university >> colleges
+		university >> university of minnesota
+		university >> state university
+		university >> university of maryland
+		university >> university of arizona
+		university >> university of wisconsin
+		university >> washington university
+		university >> school psychology
+		university >> marymount
+		university >> wisconsin madison
+	humanities >> microbiology
+		microbiology >> numerical
+		microbiology >> communication
+		microbiology >> mathematics
+		microbiology >> occupational
+		microbiology >> analytical
+		microbiology >> introduction
+		microbiology >> mathematical
+		microbiology >> studies
+		microbiology >> engineering
+		microbiology >> ergonomics
+college >> the university
+	the university >> writing
+		writing >> studies
+		writing >> learning
+		writing >> mathematics
+		writing >> literacy
+		writing >> measuring
+		writing >> understanding
+		writing >> communication
+		writing >> language
+		writing >> economics
+		writing >> grammar
+	the university >> political science
+		political science >> american studies
+		political science >> writing
+		political science >> economics
+		political science >> studies
+		political science >> public policy
+		political science >> international relations
+		political science >> social science
+		political science >> lesson
+		political science >> the university
+		political science >> lesson plans
+	the university >> humanities
+		humanities >> political science
+		humanities >> faculty
+		humanities >> social science
+		humanities >> writing
+		humanities >> studies
+		humanities >> american studies
+		humanities >> mathematics
+		humanities >> state university
+		humanities >> university
+		humanities >> microbiology
+	the university >> literature
+		literature >> art history
+		literature >> economics
+		literature >> short stories
+		literature >> summaries
+		literature >> linguistics
+		literature >> geology
+		literature >> ecology
+		literature >> explanations
+		literature >> language
+		literature >> newspaper articles
+	the university >> faculty
+		faculty >> microbiology
+		faculty >> understanding
+		faculty >> writing
+		faculty >> humanities
+		faculty >> occupational
+		faculty >> mathematics
+		faculty >> engineering
+		faculty >> accounting
+		faculty >> studies
+		faculty >> psychologists
+	the university >> social science
+		social science >> writing
+		social science >> understanding
+		social science >> studies
+		social science >> mathematical
+		social science >> science research
+		social science >> humanities
+		social science >> biological
+		social science >> microbiology
+		social science >> mathematics
+		social science >> literature
+	the university >> economics
+		economics >> linguistics
+		economics >> writing
+		economics >> art history
+		economics >> composition
+		economics >> biological
+		economics >> comparative
+		economics >> technological
+		economics >> social science
+		economics >> gross domestic
+		economics >> philosophy
+	the university >> lesson plans for
+		lesson plans for >> lesson plans
+		lesson plans for >> plans for
+		lesson plans for >> articles
+		lesson plans for >> art lesson
+		lesson plans for >> lesson plan
+		lesson plans for >> physical education
+		lesson plans for >> articles on
+		lesson plans for >> writing lesson
+		lesson plans for >> outlines
+		lesson plans for >> lessons plans
+	the university >> outlines
+		outlines >> lesson plan
+		outlines >> articles on
+		outlines >> articles
+		outlines >> physical education
+		outlines >> literature
+		outlines >> classroom activities
+		outlines >> philosophies
+		outlines >> essays
+		outlines >> short stories
+		outlines >> writing style
+	the university >> studies
+		studies >> language
+		studies >> writing
+		studies >> journalism
+		studies >> mathematics
+		studies >> forensic
+		studies >> geology
+		studies >> architecture
+		studies >> occupational
+		studies >> case studies
+		studies >> international business
+college >> university of arizona
+	university of arizona >> arizona university
+		arizona university >> northern arizona
+		arizona university >> university of north
+		arizona university >> washington university
+		arizona university >> university
+		arizona university >> university of washington
+		arizona university >> university of wisconsin
+		arizona university >> university of minnesota
+		arizona university >> university of arizona
+		arizona university >> university of maryland
+		arizona university >> university of north carolina
+	university of arizona >> university of minnesota
+		university of minnesota >> university of wisconsin
+		university of minnesota >> washington university
+		university of minnesota >> wisconsin madison
+		university of minnesota >> university of maryland
+		university of minnesota >> university
+		university of minnesota >> university of pennsylvania
+		university of minnesota >> university of chicago
+		university of minnesota >> university of washington
+		university of minnesota >> university of north
+		university of minnesota >> university of wisconsin madison
+	university of arizona >> state university
+		state university >> michigan university
+		state university >> colorado state university
+		state university >> humanities
+		state university >> western michigan university
+		state university >> college
+		state university >> florida state university
+		state university >> university of arizona
+		state university >> iowa state university
+		state university >> northeastern
+		state university >> the university
+	university of arizona >> university of illinois
+		university of illinois >> university of wisconsin
+		university of illinois >> university of minnesota
+		university of illinois >> university
+		university of illinois >> university of north
+		university of illinois >> washington university
+		university of illinois >> university of indiana
+		university of illinois >> university of maryland
+		university of illinois >> university of southern
+		university of illinois >> wisconsin madison
+		university of illinois >> university of north carolina
+	university of arizona >> arizona state university
+		arizona state university >> washington university
+		arizona state university >> university
+		arizona state university >> university of minnesota
+		arizona state university >> university of san
+		arizona state university >> fellowships
+		arizona state university >> university of wisconsin
+		arizona state university >> colleges
+		arizona state university >> art colleges
+		arizona state university >> university of maryland
+		arizona state university >> university of pennsylvania
+	university of arizona >> colleges
+		colleges >> state colleges
+		colleges >> university
+		colleges >> art schools
+		colleges >> washington university
+		colleges >> design schools
+		colleges >> texas colleges
+		colleges >> art colleges
+		colleges >> college of art
+		colleges >> university of north
+		colleges >> university school
+	university of arizona >> washington state university
+		washington state university >> university
+		washington state university >> university of minnesota
+		washington state university >> university of wisconsin
+		washington state university >> wisconsin madison
+		washington state university >> university of georgia
+		washington state university >> university of wisconsin madison
+		washington state university >> university of indiana
+		washington state university >> university of colorado
+		washington state university >> university of washington
+		washington state university >> university of maryland
+	university of arizona >> university of wisconsin
+		university of wisconsin >> university of minnesota
+		university of wisconsin >> university of wisconsin madison
+		university of wisconsin >> university of chicago
+		university of wisconsin >> washington university
+		university of wisconsin >> university of pennsylvania
+		university of wisconsin >> university michigan
+		university of wisconsin >> university of washington
+		university of wisconsin >> university wisconsin
+		university of wisconsin >> university minnesota
+		university of wisconsin >> university of southern
+	university of arizona >> washington university
+		washington university >> university of washington
+		washington university >> university of north
+		washington university >> university of pennsylvania
+		washington university >> fellowships
+		washington university >> york university
+		washington university >> university of san
+		washington university >> university of wisconsin
+		washington university >> new york university
+		washington university >> university of north carolina
+		washington university >> university of chicago
+	university of arizona >> university of maryland
+		university of maryland >> university of minnesota
+		university of maryland >> university of wisconsin
+		university of maryland >> washington university
+		university of maryland >> university of north
+		university of maryland >> colleges
+		university of maryland >> university
+		university of maryland >> university of chicago
+		university of maryland >> university of washington
+		university of maryland >> university of pennsylvania
+		university of maryland >> chronicle of higher
+string(13) "overall: 1110"
+string(13) "distinct: 204"
