@@ -1,12 +1,12 @@
 <?php
 
 require_once(dirname(__FILE__) . '/config/config.php');
-$args = getopt('k:vd:r:ha:');
+$args = getopt('k:vd:r:ha:m:');
 
 var_dump($args);
 
 if(isset($args['h'])) {
-  die("\tphp run.php -k=\"keyword name here\" -d 3 -r 10 -v\r\n");
+  die("\tphp run.php -k=\"keyword name here\" -d 3 -r 10 -v -a \"adaptor name here\" (-m debug)\r\n");
 }
 
 if(!isset($args['k'])) {
@@ -21,7 +21,8 @@ $config = [
   'resultLimit'=>$args['r'],
   'depthLevelLimit'=>$args['d'],
   'verbose'=>isset($args['v']),
-  'model'=> $CipfadModel
+  'model'=> $CipfadModel,
+  'mode'=>$args['m']
 ];
 
 $gckg = new KeywordGrabber($config);

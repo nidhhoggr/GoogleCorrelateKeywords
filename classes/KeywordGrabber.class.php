@@ -11,6 +11,7 @@ class KeywordGrabber {
     $this->verbose = $config['verbose'];
     $this->model = $config['model'];
     $this->parentKeywords = [];
+    $this->mode = $config['mode'];
   }
 
   public function setUnacceptablePostfixWords($words) {
@@ -40,6 +41,8 @@ class KeywordGrabber {
   }
 
   public function saveKeyword($keyword, $parentKeyword) {
+
+    if($this->mode == "debug") return;
 
     $this->model->setTable('keyword');
     $this->setParentKeywordId($parentKeyword);
